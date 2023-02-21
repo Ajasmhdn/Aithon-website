@@ -1,6 +1,6 @@
-AI Hackathon
+AITHON
 
-Welcome to the AI Hackathon, a virtual event where teams of developers, data scientists, and engineers come together to create innovative solutions using artificial intelligence.
+Welcome to the AI Hackathon website, a offline event where teams of developers, data scientists, and engineers come together to create innovative solutions using artificial intelligence.
 
 Description
 
